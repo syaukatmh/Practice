@@ -1,0 +1,31 @@
+.jumbotron img {
+	width: 200px;
+}
+
+
+hr {
+	width: 300px;
+	border-top: 3px solid black;
+}
+
+section {
+	min-height: 600px;
+}
+
+.portfolio {
+	background-color: #eee;
+}
+
+.contact {
+	min-height: 700px;
+}
+
+footer {
+	padding-top: 20px;
+	height: 70px;
+	background-color: black;
+}
+
+footer .col-sm-12 {
+	color: white;
+}
